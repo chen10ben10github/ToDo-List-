@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To do List</title>
+    <link rel="stylesheet" href="../to-do-list/todo.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="todo-header">
+            <h2>ToDo List</h2>
+            <img src="../image/book_ribbon.svg" height="50px">
+        </div>
+        <!---input field for adding tasks, a lit to display the task, and  button for adding and removing-->
+        
+        <div class="todo-body">
+            <input 
+            type="text"
+            id="todoText"
+            class="todo-input"
+            placeholder="Add Your items"
+            />
+            <img 
+            src="../image/add_circle.svg" 
+            alt="+"
+            id="AddUpdateClick"
+            onclick="CreateToDoItems();"
+            />
+            <!----show the validation of what activity done by users ect. adding,  updating, completing or Todo by user,-->
+            <h5 id="Alter"></h5>
+            <ul id="list-items" class="list-items"></ul>
+        </div>
+
+    </div>
+
+
+
+    <script type="text/javascript" src="todo.js"></script>
+</body>
+</html>
