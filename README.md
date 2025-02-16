@@ -35,8 +35,7 @@ This is a **simple** and **interactive** To-Do List web application that allows 
 
 Here’s a sneak peek of how the To-Do List app looks:
 
-![To-Do List Screenshot](https://via.placeholder.com/600x300?text=To-Do+List+App)
-
+![todo-list](https://github.com/user-attachments/assets/40a545b1-91e6-4a54-b093-8d73634caddb)
 ---
 
 ## Installation 🚀
