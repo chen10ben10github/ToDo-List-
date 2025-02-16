@@ -1,9 +1,3 @@
-To make your README even more fun and engaging, you can include some cool stickers or badges. These can be used to highlight things like the project's build status, technologies used, or even for personal flair.
-
-Here’s an updated version of your README with some cool stickers and badges:
-
----
-
 # To-Do List App 📝🎉
 
 This is a **simple** and **interactive** To-Do List web application that allows you to **add**, **edit**, **mark as complete**, and **delete** tasks. It uses **HTML**, **CSS**, **JavaScript**, and **Font Awesome** icons to provide a **user-friendly** and **stylish** interface.
